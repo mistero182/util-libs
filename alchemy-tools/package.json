@@ -1,0 +1,16 @@
+{
+  "name": "alchemy-tools",
+  "version": "1.0.0",
+  "description": "Alchemy tools lib",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ocuba",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "ethers": "^5.7.2"
+  }
+}

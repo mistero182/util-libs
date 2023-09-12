@@ -1,0 +1,21 @@
+{
+  "name": "serverless-tools",
+  "version": "1.0.0",
+  "description": "Tools for user authentificaction in AWS severless stack",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamo",
+    "cognito",
+    "tools",
+    "serverless"
+  ],
+  "author": "ocuba",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "aws-sdk": "^2.1249.0"
+  }
+}

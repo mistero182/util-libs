@@ -1,0 +1,12 @@
+{
+  "name": "rds-tools",
+  "version": "1.0.0",
+  "description": "Handly tools for query SQL ops",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ocuba",
+  "license": "UNLICENSED"
+}
